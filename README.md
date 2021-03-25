@@ -11,7 +11,7 @@ About
 
 This page provides information about the project developed in Labcontrol called ["Control of throttle valve with fixed delay: emulating a CAN bus."](http://www.anvargas.com/blog/throttlevalvefixeddelay.html)  Experiments were carried out in practice in a laboratory testbed, and the data contained in this Github repository were collected in those experiments. 
 
-[![DOI](https://zenodo.org/badge/330236633.svg)](https://zenodo.org/badge/latestdoi/330236633)
+[![DOI](https://zenodo.org/badge/348076206.svg)](https://zenodo.org/badge/latestdoi/348076206)
 
 **Please check more details about this project in the page detailing the ["Control of throttle valve with fixed delay: emulating a CAN bus."](http://www.anvargas.com/blog/throttlevalvefixeddelay.html)**
 
@@ -47,7 +47,7 @@ More information
 * You are free to use the data in your research. If you do so, please contact the author [Prof. Alessandro N. Vargas](http://www.anvargas.com) 
 and let him know about your project. Depending on your research area, the author can help you interpret the data according to your application. The author can also suggest papers and books that can be helpful in your research.
 
-[![DOI](https://zenodo.org/badge/330236633.svg)](https://zenodo.org/badge/latestdoi/330236633)
+[![DOI](https://zenodo.org/badge/348076206.svg)](https://zenodo.org/badge/latestdoi/348076206)
 
 Citation
 ------
@@ -56,13 +56,13 @@ How to cite the data of this repository:
 ```
 @misc{vargasGithub2021,
     author       = {A. N. Vargas},
-    title        = {Data, source code, and documents for the shaking table with {MR}-damper}},
-    month        = {Jan},
+    title        = {Data, source code, and documents for the automotive throttle valve experiments for emulating a {CAN}},
+    month        = {March},
     year         = 2021,
     doi          = {10.5281/zenodo.4445334},
-    version      = {1.0.3},
+    version      = {1.0.1},
     publisher    = {Zenodo},
-    url          = {https://zenodo.org/badge/latestdoi/330236633}
+    url          = {https://zenodo.org/badge/latestdoi/348076206}
 };
 ```
 
