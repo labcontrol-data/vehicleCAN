@@ -16,7 +16,7 @@ This page provides information about the project developed in Labcontrol called 
 **Please check more details about this project in the page detailing the ["Control of throttle valve with fixed delay: emulating a CAN bus."](http://www.anvargas.com/blog/throttlevalvefixeddelay.html)**
 
 
-`maincode.m` is a MATLAB(R) script that calls Simulink-Matlab and generates simulation data. The script also generates figures. The figures contain both simulation and real-time data collected in a laboratory testbed.
+`maincode.m` is a MATLAB(R) script that runs all the code used in the numerical simulation, as well as it plots the figures using experimental data. That is, the figures contain both simulation and real-time data collected in a laboratory testbed.
 
 For more details about the experimental data, as long as the corresponding academic publications, please visit [the project page](http://www.anvargas.com/blog).
 
