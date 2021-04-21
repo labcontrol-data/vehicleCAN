@@ -25,7 +25,7 @@ Installation
 ============
 
 1. Extract the ZIP file (or clone the git repository) in your computer.
-2. Add the folders `matlab-code/` and `data/` to your path in MATLAB/Octave: e.g. 
+2. Add the folders `code/` and `data/` to your path in MATLAB/Octave: e.g. 
     - using the "Set Path" dialog in MATLAB, or 
     - by running the `addpath` function from your command window or `startup` script.
 
