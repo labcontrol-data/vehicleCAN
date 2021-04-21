@@ -9,11 +9,11 @@
 About
 ============
 
-This page provides information about the project developed in Labcontrol called ["Control of throttle valve with fixed delay: emulating a CAN bus."](http://www.anvargas.com/blog/throttlevalvefixeddelay.html)  Experiments were carried out in practice in a laboratory testbed, and the data contained in this Github repository were collected in those experiments. 
+This page provides information about the project developed in Labcontrol called ["Control of throttle valve with fixed delay: emulating a CAN bus."](http://www.anvargas.com/blog/)  Experiments were carried out in practice in a laboratory testbed, and the data contained in this Github repository were collected in those experiments. 
 
 [![DOI](https://zenodo.org/badge/348076206.svg)](https://zenodo.org/badge/latestdoi/348076206)
 
-**Please check more details about this project in the page detailing the ["Control of throttle valve with fixed delay: emulating a CAN bus."](http://www.anvargas.com/blog/throttlevalvefixeddelay.html)**
+**Please check more details about this project in the page detailing the ["Control of throttle valve with fixed delay: emulating a CAN bus."](http://www.anvargas.com/blog/)**
 
 
 `maincode.m` is a MATLAB(R) script that runs all the code used in the numerical simulation, as well as it plots the figures using experimental data. That is, the figures contain both simulation and real-time data collected in a laboratory testbed.
