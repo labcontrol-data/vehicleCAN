@@ -29,7 +29,7 @@ Installation
     - using the "Set Path" dialog in MATLAB, or 
     - by running the `addpath` function from your command window or `startup` script.
 
-Make sure that you are running Matlab 2017a (or a newer version). Older versions may work, but it is uncertain.
+Make sure that you are running Matlab 2017a (or a newer version). Older versions may work appropriately.
 
 Usage
 =====
