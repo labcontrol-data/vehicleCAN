@@ -34,20 +34,21 @@ Make sure that you are running Matlab 2017a (or a newer version). Older versions
 Usage
 =====
 
-Typical usage of `maincode.m` consists of running it in your MATLAB. The code generates ten figures.
+Typical usage of either `maincodeNumerics.m` or `maincodeExperiments.m` consists of running each in your MATLAB. 
 
 MATLAB
 ------
-  1. Run `maincode.m`.
+  1. Run `maincodeNumerics.m`
+  2. Run `maincodeExperiments.m`
 
 More information
 ================
 
-* For more information about `maincode.m`, visit the author's page: [Prof. Alessandro N. Vargas](http://www.anvargas.com). You are welcome to help improving the code.
+* For more information about the code, visit the author's page: [Prof. Alessandro N. Vargas](http://www.anvargas.com). You are welcome to help improving the code.
 * You are free to use the data in your research. If you do so, please contact the author [Prof. Alessandro N. Vargas](http://www.anvargas.com) 
 and let him know about your project. Depending on your research area, the author can help you interpret the data according to your application. The author can also suggest papers and books that can be helpful in your research.
 
-[![DOI](https://zenodo.org/badge/348076206.svg)](https://zenodo.org/badge/latestdoi/348076206)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4637828.svg)](https://doi.org/10.5281/zenodo.4637828)
 
 Citation
 ------
@@ -59,10 +60,10 @@ How to cite the data of this repository:
     title        = {Data, source code, and documents for the automotive throttle valve experiments for emulating a {CAN}},
     month        = {March},
     year         = 2021,
-    doi          = {10.5281/zenodo.4445334},
+    doi          = {10.5281/zenodo.4637828},
     version      = {1.0.1},
     publisher    = {Zenodo},
-    url          = {https://zenodo.org/badge/latestdoi/348076206}
+    url          = {https://doi.org/10.5281/zenodo.4637828}
 };
 ```
 
